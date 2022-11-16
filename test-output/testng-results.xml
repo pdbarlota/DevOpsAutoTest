@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-16T07:30:26Z" name="Default suite" finished-at="2022-11-16T07:30:35Z" duration-ms="9315">
+    <groups>
+    </groups>
+    <test started-at="2022-11-16T07:30:26Z" name="Default test" finished-at="2022-11-16T07:30:35Z" duration-ms="9315">
+      <class name="com.abc.autotest.HomePageTestCase">
+        <test-method is-config="true" signature="GenerateReport()[pri:0, instance:com.abc.autotest.HomePageTestCase@46fa7c39]" started-at="2022-11-16T07:30:26Z" name="GenerateReport" finished-at="2022-11-16T07:30:27Z" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GenerateReport -->
+        <test-method signature="HomePage()[pri:0, instance:com.abc.autotest.HomePageTestCase@46fa7c39]" started-at="2022-11-16T07:30:27Z" name="HomePage" finished-at="2022-11-16T07:30:35Z" duration-ms="8893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+      </class> <!-- com.abc.autotest.HomePageTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
